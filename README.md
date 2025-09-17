@@ -5,14 +5,13 @@ vue3+ts大文件上传，断点续传，秒传组件封装自用
 
 ## 效果
 
-### 正常分片上传妙传效果
+### 正常分片上传秒传效果
 
-[video(video-6PFFGtnb-1757406861401)(type-bilibili)(url-https://player.bilibili.com/player.html?aid=115173373250627)(image-https://i-blog.csdnimg.cn/img_convert/08b6703a6a0c3f2da6f203b2c1f261a1.jpeg)(title-前端大文件分片上传断点续传秒传功能node全栈)]
+【前端大文件分片上传断点续传秒传功能node全栈】 https://www.bilibili.com/video/BV17yYPzyEDQ/?share_source=copy_web&vd_source=077d8c6f9c10793046fed8e79140e741
 
 ### 断点续传效果
 
-[video(video-04f2PJic-1757411570158)(type-bilibili)(url-https://player.bilibili.com/player.html?aid=115173692014746)(image-https://i-blog.csdnimg.cn/img_convert/ac8a12d5a757b9d674c02a2125711936.jpeg)(title-大文件上传断点续传)]
-
+【大文件上传断点续传】 https://www.bilibili.com/video/BV18HYPz8Ehu/?share_source=copy_web&vd_source=077d8c6f9c10793046fed8e79140e741
 
 ![Vue3 + Node.js 实现大文件上传：断点续传、秒传、分片上传完整教程（含源码](https://i-blog.csdnimg.cn/direct/8c466460580e40ca8263b9e844aa8fca.png)
 
